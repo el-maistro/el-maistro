@@ -1,4 +1,4 @@
-### Hi there 🥷
+### Hola, soy un apacionado por la programacion y el hacking etico.
 
 <!--
 **el-maistro/el-maistro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
