@@ -5,7 +5,7 @@
 <p align=center><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"/>
-</p>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"/><br>
 <a href='https://www.hackinscience.org/teams/ew1n' target='_blank'>HackInScience</a>
+<a href='https://leetcode.com/u/ew1n/' target='_blank'>LeetCode</a>
+</p>
