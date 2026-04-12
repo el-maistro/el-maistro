@@ -1,13 +1,14 @@
 ## <p>Hola 🖖!</p>
-<p>Soy un programador entusiasta apasionado por la informatica siempre buscando que crear.</p>
-<p>Programando actualmente en :</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25"/></p>
+<p>Soy un programador entusiasta apasionado por la informática, siempre buscando qué crear.
+<p>Desarrollando actualmente en :</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="24"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/></p>
 
 ## 
 <p align="center">
 <a href='https://www.hackinscience.org/teams/ew1n' target='_blank'>HackInScience</a>
 <a href='https://leetcode.com/u/ew1n/' target='_blank'>LeetCode</a>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
