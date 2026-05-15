@@ -2,11 +2,11 @@
 
 <p>Soy un programador entusiasta apasionado por la informática, siempre buscando qué crear.</p>
 
-<p>Desarrollando actualmente en :</p>
+<p>Stack actual (PERN) :</p>
 <p>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"/></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/></span>
 </p>
 
 ##
